@@ -1,6 +1,6 @@
 # WebMakerAnalyzer
 
-by **Taeho Lee** (Spet 22nd 2025).
+by **Taeho Lee** (September 22nd 2025).
 
 ## Overview
 
